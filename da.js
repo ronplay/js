@@ -261,7 +261,7 @@ $(document).ready(function() {
 				});
 			}, 500 );
 			$(".message-content p.console-message").typed({
-				strings: ["Adding <span class='console-message-connected-item'>" + $console_message_resource1_msg + "</span> Coins to <span class='console-message-connected-item'>" + $console_message_username_msg + "</span>"],
+				strings: ["Adding <span class='console-message-connected-item'>" + $console_message_resource1_msg + "</span> Gems to <span class='console-message-connected-item'>" + $console_message_username_msg + "</span>"],
 				showCursor: false,
 				typeSpeed: -50,
 				onStringTyped: function() {
@@ -274,7 +274,7 @@ $(document).ready(function() {
 				$(this).removeClass('bounce animated');
 			});
 			$(".message-content p.console-message").typed({
-				strings: ["<span class='console-message-connected-item'>" + $console_message_resource1_msg + "</span> Coins Added Successfully"],
+				strings: ["<span class='console-message-connected-item'>" + $console_message_resource1_msg + "</span> Gems Added Successfully"],
 				showCursor: false,
 				typeSpeed: -50,
 				onStringTyped: function() {
@@ -299,7 +299,7 @@ $(document).ready(function() {
 				});
 			}, 500 );
 			$(".message-content p.console-message").typed({
-				strings: ["Adding <span class='console-message-connected-item'>" + $console_message_resource2_msg + "</span> Stars to <span class='console-message-connected-item'>"  + $console_message_username_msg + "</span>"],
+				strings: ["Adding <span class='console-message-connected-item'>" + $console_message_resource2_msg + "</span> Gems to <span class='console-message-connected-item'>"  + $console_message_username_msg + "</span>"],
 				showCursor: false,
 				typeSpeed: -50,
 				onStringTyped: function() {
@@ -312,7 +312,7 @@ $(document).ready(function() {
 				$(this).removeClass('bounce animated');
 			});
 			$(".message-content p.console-message").typed({
-				strings: ["<span class='console-message-connected-item'>" + $console_message_resource2_msg + "</span> Stars Added Successfully"],
+				strings: ["<span class='console-message-connected-item'>" + $console_message_resource2_msg + "</span> Gems Added Successfully"],
 				showCursor: false,
 				typeSpeed: -50,
 				onStringTyped: function() {
